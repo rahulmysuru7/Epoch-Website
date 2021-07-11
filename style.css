@@ -166,11 +166,9 @@ nav{
     padding-right: 10px;
     text-decoration: none;
 }
-
 .social ul li{
     padding: 12px 12px;
-    vertical-align: middle;
-    
+    vertical-align: middle;    
 }
 #twitterlink{
     color:#CCD6F6;
