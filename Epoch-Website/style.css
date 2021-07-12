@@ -156,7 +156,7 @@ nav{
 .social{
     position:fixed;
     bottom: 150px;
-    right: 2vh;
+    right: 5vh;
     left:auto;
     width:40px;
     display: flex;
